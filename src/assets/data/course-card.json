@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "title": "Master of Business Administration (MBA)",
+      "university": "Murdoch University Dubai",
+      "location": "Dubai",
+      "fees": "AED 89,000",
+      "duration": "1 Year",
+      "scholarship": {
+        "description": "Up to 40% Scholarship + 10% early bird fee waiver",
+        "additional": "Plus additional AED 2,000 (INR 40,000) Fee Waiver"
+      },
+      "lastText": {
+        "text1": "Secure your spot today and our experts will connect with you within",
+        "duration": "48 hour"
+      },
+      "images": ["img1", "img2"]
+    },
+    {
+      "id": 2,
+      "title": "Bachelor of Science in Computer Science",
+      "university": "Stanford University",
+      "location": "California, USA",
+      "fees": "USD 50,000",
+      "duration": "4 Years",
+      "scholarship": {
+        "description": "Merit-based scholarships available",
+        "additional": "Apply for financial aid"
+      },
+      "lastText": {
+        "text1": "Apply now and join our prestigious program",
+        "duration": "Apply by April 30th"
+      },
+      "images": ["img3", "img4"]
+    },
+    {
+      "id": 3,
+      "title": "Bachelor of Arts in Economics",
+      "university": "London School of Economics and Political Science (LSE)",
+      "location": "London, UK",
+      "fees": "GBP 20,000",
+      "duration": "3 Years",
+      "scholarship": {
+        "description": "Need-based financial aid available",
+        "additional": "Explore scholarship opportunities"
+      },
+      "lastText": {
+        "text1": "Join our diverse community of students",
+        "duration": "Apply by May 15th"
+      },
+      "images": ["img5", "img6"]
+    },
+    {
+      "id": 4,
+      "title": "Master of Science in Artificial Intelligence",
+      "university": "Massachusetts Institute of Technology (MIT)",
+      "location": "Cambridge, Massachusetts, USA",
+      "fees": "USD 60,000",
+      "duration": "2 Years",
+      "scholarship": {
+        "description": "Research assistantships available",
+        "additional": "Apply for graduate fellowships"
+      },
+      "lastText": {
+        "text1": "Become an expert in AI at MIT",
+        "duration": "Apply by June 30th"
+      },
+      "images": ["img7", "img8"]
+    }
+  ]
+  
